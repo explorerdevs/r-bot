@@ -140,4 +140,5 @@ build
 #misc
 design
 
-*.local.md
+*.local.*
+*.local
