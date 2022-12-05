@@ -10,6 +10,11 @@
     "typescript": "^4.9.3"
   },
   "devDependencies": {
-    "eslint": "^8.26.0"
+    "eslint": "^8.26.0",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node ",
+    "dev": "nodemon ./src/index.js"
   }
 }
